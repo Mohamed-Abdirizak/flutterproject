@@ -1,16 +1,9 @@
-# firebase
+# Flutter Analog and Digital World Clock
+## Name : Mohamed Abdirizaq Ahmed 
+## ID : C119090
 
-A new Flutter project.
+### To run the project first run flutter pub get command
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![f20e1da2-d868-4427-923b-feaa3f792568](https://user-images.githubusercontent.com/63655278/216845573-fa00a36e-6989-43a1-b56a-f54ab80d5030.jpg)
+![ss](https://user-images.githubusercontent.com/63655278/216845574-2597acff-9f0d-44db-b5d5-90823aae93f9.jpg)
